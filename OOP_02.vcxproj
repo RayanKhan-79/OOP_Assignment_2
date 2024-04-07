@@ -127,13 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h" />
     <ClInclude Include="i230745_B_Q1.h" />
     <ClInclude Include="i230745_B_Q2.h" />
     <ClInclude Include="i230745_B_Q3.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Header.cpp" />
     <ClCompile Include="i230745_B_Q1.cpp" />
     <ClCompile Include="i230745_B_Q2.cpp" />
     <ClCompile Include="i230745_B_Q3.cpp" />

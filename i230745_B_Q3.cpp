@@ -1,6 +1,6 @@
 #include "i230745_B_Q3.h"
 
-
+//Making a change
 CourseIns::CourseIns(string key)
 {
 	name = key;
